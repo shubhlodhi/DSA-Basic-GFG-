@@ -1,0 +1,1 @@
+asymtotic analysis is an mathmetacil way to solve an alogrithm. this way of analysis does not depend on the computer cpu and programming language. it depend on the simple pseudocode of any problem or alogrithm of an any problem.
